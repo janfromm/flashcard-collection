@@ -3,9 +3,9 @@
         "id": 1723727706,
         "vorderseite": "to determine",
         "rueckseite": "bestimmen",
-        "level": 1,
+        "level": 2,
         "erstellt": "2024-08-15 15:15:06",
-        "wiederholt": "2024-08-15 15:15:06"
+        "wiederholt": "2024-08-15 15:24:04"
     },
     {
         "id": 1723727769,
@@ -13,7 +13,7 @@
         "rueckseite": "überzeugend",
         "level": 1,
         "erstellt": "2024-08-15 15:16:09",
-        "wiederholt": "2024-08-15 15:16:09"
+        "wiederholt": "2024-08-15 15:24:13"
     },
     {
         "id": 1723727781,
@@ -21,14 +21,46 @@
         "rueckseite": "gleichfalls",
         "level": 1,
         "erstellt": "2024-08-15 15:16:21",
-        "wiederholt": "2024-08-15 15:16:21"
+        "wiederholt": "2024-08-15 15:25:07"
     },
     {
         "id": 1723727804,
         "vorderseite": "indispensable",
         "rueckseite": "unverzichtbar",
-        "level": 1,
+        "level": 2,
         "erstellt": "2024-08-15 15:16:44",
-        "wiederholt": "2024-08-15 15:16:44"
+        "wiederholt": "2024-08-15 15:25:17"
+    },
+    {
+        "id": 1723729092,
+        "vorderseite": "behemoth",
+        "rueckseite": "ungeheuer groß",
+        "level": 1,
+        "erstellt": "2024-08-15 15:38:12",
+        "wiederholt": "2024-08-15 15:38:12"
+    },
+    {
+        "id": 1723729115,
+        "vorderseite": "wearying",
+        "rueckseite": "ermüdend",
+        "level": 1,
+        "erstellt": "2024-08-15 15:38:35",
+        "wiederholt": "2024-08-15 15:38:35"
+    },
+    {
+        "id": 1723729126,
+        "vorderseite": "valiant",
+        "rueckseite": "tapfer",
+        "level": 1,
+        "erstellt": "2024-08-15 15:38:46",
+        "wiederholt": "2024-08-15 15:38:46"
+    },
+    {
+        "id": 1723729143,
+        "vorderseite": "astute",
+        "rueckseite": "klug",
+        "level": 1,
+        "erstellt": "2024-08-15 15:39:03",
+        "wiederholt": "2024-08-15 15:39:03"
     }
 ]
